@@ -1,0 +1,3 @@
+/home/nch/Desktop/sdl cmake/build/CMakeFiles/Back-to-Earth-unix.dir
+/home/nch/Desktop/sdl cmake/build/CMakeFiles/edit_cache.dir
+/home/nch/Desktop/sdl cmake/build/CMakeFiles/rebuild_cache.dir
