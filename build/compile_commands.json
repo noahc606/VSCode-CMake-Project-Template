@@ -1,7 +1,8 @@
 [
 {
-  "directory": "/home/nch/Desktop/sdl cmake/build",
-  "command": "/usr/bin/g++ -I\"/home/nch/Desktop/sdl cmake/include/SDL2-2.0.10-i686-w64-mingw32/include\" -I\"/home/nch/Desktop/sdl cmake/include/SDL2-2.0.10-i686-w64-mingw32/include/SDL2\" -I\"/home/nch/Desktop/sdl cmake/include/SDL2_image-2.0.5-i686-w64-mingw32/include\" -I\"/home/nch/Desktop/sdl cmake/include/SDL2_mixer-2.0.4-i686-w64-mingw32/include\" -I\"/home/nch/Desktop/sdl cmake/include/SDL2_ttf-2.0.15-i686-w64-mingw32/include\" -I\"/home/nch/Desktop/sdl cmake/include/SDL2_net-2.2.0-i686-w64-mingw32/include\" -g -o CMakeFiles/Back-to-Earth-unix.dir/src/main/Main.cpp.o -c \"/home/nch/Desktop/sdl cmake/src/main/Main.cpp\"",
-  "file": "/home/nch/Desktop/sdl cmake/src/main/Main.cpp"
+  "directory": "C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe   -g -o CMakeFiles/Back-to-Earth.dir/src/main/Main.cpp.obj -c C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/src/main/Main.cpp",
+  "file": "C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/src/main/Main.cpp",
+  "output": "CMakeFiles/Back-to-Earth.dir/src/main/Main.cpp.obj"
 }
 ]
