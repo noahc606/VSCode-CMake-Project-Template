@@ -1,3 +1,0 @@
-C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/build/CMakeFiles/Back-to-Earth.dir
-C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/build/CMakeFiles/edit_cache.dir
-C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/build/CMakeFiles/rebuild_cache.dir

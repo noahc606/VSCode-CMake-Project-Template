@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/build",
-  "command": "C:/msys64/mingw64/bin/g++.exe   -g -o CMakeFiles/Back-to-Earth.dir/src/main/Main.cpp.obj -c C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/src/main/Main.cpp",
-  "file": "C:/Users/noahc/Desktop/Git/VSCode-CMake-Project-Template/src/main/Main.cpp",
-  "output": "CMakeFiles/Back-to-Earth.dir/src/main/Main.cpp.obj"
-}
-]
