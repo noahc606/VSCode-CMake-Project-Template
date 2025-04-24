@@ -27,7 +27,10 @@ int main()
     return 0;
 }
 
+#if ( defined(_WIN32) || defined(WIN32) )
 int WinMain()
 {
-    return main();
+    char** x = new char*[1];
+    return main(0, x);
 }
+#endif
